@@ -1,0 +1,7 @@
+name = "oinio-soul-proxy"
+main = "src/index.ts"
+compatibility_date = "2024-04-06"
+
+[vars]
+ENVIRONMENT = "production"
+VERSION = "0.0.1"
